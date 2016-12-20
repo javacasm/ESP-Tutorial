@@ -1,7 +1,21 @@
 # ESP-Tutorial
 
+## Instalación
+
+En "Preferencias" (menú Ficheros) añadimos la url de la definición de las placas ESP
+
+
+    http://arduino.esp8266.com/package_esp8266com_index.json
+
+![add tarjetas](./images/ESP8266_1_add_url_boards.png)
+
+Ahora entramos en el "Gestor de Tarjetas" (en el menú Herramientas -> Placa)
+
+![add tarjetas](./images/ESP8266_2_Board_manager.png)
+
+Filtramos la selección de placas para que aparezcan las ESP8266 y pulsamos sobre instalar
+
+![add tarjetas](./images/ESP8266_3_install_boards.png)
+
+
 ## Enlaces
-
-[tutorial](http://hackaday.com/2015/03/18/how-to-directly-program-an-inexpensive-esp8266-wifi-module/)	
-
-[controla leds RGB desde tu reloj](https://www.packtpub.com/books/content/using-your-smart-watch-control-networked-leds?utm_source=Sentori&utm_medium=Email&utm_campaign=Create+Dispatch+-+Mid+May+15)

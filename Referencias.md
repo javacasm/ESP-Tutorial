@@ -42,6 +42,10 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 
 ![18650 recargable](https://cdn.instructables.com/F7X/CECJ/I8BGIARY/F7XCECJI8BGIARY.MEDIUM.jpg?width=614)
 
+[¿Es seguro alimentar el ESP8266 con 3,7v?](http://electronics.stackexchange.com/questions/206023/is-it-safe-to-use-esp8266-with-3-7v)
+
+[ESP8266 con lithium](https://www.reddit.com/r/esp8266/comments/3h6qp6/lithium_battery_powered_esp8266_options/)
+
 ## Proyectos
 
 [Datalogger](https://tzapu.com/minimalist-battery-powered-esp8266-wifi-temperature-logger/)

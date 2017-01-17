@@ -50,6 +50,16 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 
 [Datalogger](https://tzapu.com/minimalist-battery-powered-esp8266-wifi-temperature-logger/)
 
+[Pasarela ESP-433Mhz RF](https://1technophile.blogspot.com.es/2016/09/433tomqttto433-bidirectional-esp8266.html)
+
+### Estación meteo
+
+[ESP8266, Bosch BME280 sensor, and a .96" OLED display Meteo in 20 minutes](http://2xod.com/articles/20-dollar-20-minute-weather-station-esp8266-thingspeak-esp-easy/)
+[[Video]]( https://www.youtube.com/watch?v=07XukAPV20E) 
+
+
+[Meteo con ESP8266](http://www.instructables.com/id/ESP8266-Weather-Widget/)
+[[Vídeo]](https://www.youtube.com/watch?v=AVIP1Na-M10)
 
 ## Referencias
 

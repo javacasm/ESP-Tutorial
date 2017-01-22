@@ -75,3 +75,10 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 ## OTA
 
 [¿Cómo funciona la OTA?](https://arcoresearchgroup.wordpress.com/2016/02/17/esp8266-programacion-inalambrica/)
+
+
+## Redes Mesh
+
+¡¡Usa el wifi pero no con IP!!
+
+https://gitlab.com/BlackEdder/painlessMes

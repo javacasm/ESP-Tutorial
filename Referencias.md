@@ -55,7 +55,7 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 ### Estación meteo
 
 [ESP8266, Bosch BME280 sensor, and a .96" OLED display Meteo in 20 minutes](http://2xod.com/articles/20-dollar-20-minute-weather-station-esp8266-thingspeak-esp-easy/)
-[[Video]]( https://www.youtube.com/watch?v=07XukAPV20E) 
+[[Video]]( https://www.youtube.com/watch?v=07XukAPV20E)
 
 
 [Meteo con ESP8266](http://www.instructables.com/id/ESP8266-Weather-Widget/)
@@ -64,3 +64,14 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 ## Referencias
 
 [Pinout del ESP01](http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/esp8266-esp-01-pin-outs-and-schematics/)
+
+
+## Sistema de archivos SPIFFS
+
+[Especificación del SPIFFS](https://github.com/esp8266/Arduino/blob/master/doc/filesystem.md)
+
+[Ejemplo sencillo](http://www.esp8266.com/viewtopic.php?f=29&t=8194)
+
+## OTA
+
+[¿Cómo funciona la OTA?](https://arcoresearchgroup.wordpress.com/2016/02/17/esp8266-programacion-inalambrica/)

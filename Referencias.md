@@ -28,6 +28,8 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 
 [Proyecto similar](http://www.esploradores.com/practica-8-thinger-io-almacenamiento-y-monitorizacion-de-datos-segunda-parte/)
 
+[ESP8266 Deep sleep Power consumption](https://forum.makehackvoid.com/t/esp8266-deep-sleep-cycle-times-and-power-consumption-with-wifi-off/776/6)
+
 ### [Conexión con google docs](https://www.youtube.com/watch?v=5f7wCeD4gB4)
 
 ## Alimentación

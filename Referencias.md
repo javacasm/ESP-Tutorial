@@ -68,11 +68,9 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 [Pinout del ESP01](http://henrysbench.capnfatz.com/henrys-bench/arduino-projects-tips-and-more/esp8266-esp-01-pin-outs-and-schematics/)
 
 
-## Sistema de archivos SPIFFS
+## [Sistema de archivos SPIFFS](./SPIFFS.md)
 
-[Especificación del SPIFFS](https://github.com/esp8266/Arduino/blob/master/doc/filesystem.md)
 
-[Ejemplo sencillo](http://www.esp8266.com/viewtopic.php?f=29&t=8194)
 
 ## OTA
 

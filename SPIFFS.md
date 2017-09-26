@@ -8,3 +8,5 @@
 [Ejemplo sencillo](http://www.esp8266.com/viewtopic.php?f=29&t=8194)
 
 [Video tutorial sobre SPIFFS](https://www.youtube.com/watch?v=jIOTzaeh7fs)
+
+[Reemplaza la SD por el SPIFFS](https://www.youtube.com/watch?v=_UBPgdp1Yug)

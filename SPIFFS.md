@@ -1,6 +1,6 @@
 # SPIFFS
 
-![Características del SPIFFS](./images/Características_del_SPIFFS.png)
+
 
 
 [Especificación del SPIFFS](https://github.com/esp8266/Arduino/blob/master/doc/filesystem.md)
@@ -9,4 +9,14 @@
 
 [Video tutorial sobre SPIFFS](https://www.youtube.com/watch?v=jIOTzaeh7fs)
 
-[Reemplaza la SD por el SPIFFS](https://www.youtube.com/watch?v=_UBPgdp1Yug)
+## [Reemplaza la SD por el SPIFFS](https://www.youtube.com/watch?v=_UBPgdp1Yug)
+
+![Características del SPIFFS](./images/Características_del_SPIFFS.png)
+
+[Ejemplos](https://github.com/G6EJD/SPIFFS-Examples)
+
+## Doc tecnicos
+
+[Sobre el Sistema de archivos](https://github.com/esp8266/Arduino/blob/master/doc/filesystem.rst)
+
+[Sobre SPIFFS](https://github.com/esp8266/Arduino/blob/master/cores/esp8266/spiffs/README.md)

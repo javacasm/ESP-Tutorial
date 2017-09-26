@@ -71,7 +71,6 @@ Deep Sleep (GPIO 16) pin debe conectarse al pin Reset
 ## [Sistema de archivos SPIFFS](./SPIFFS.md)
 
 
-
 ## OTA
 
 [¿Cómo funciona la OTA?](https://arcoresearchgroup.wordpress.com/2016/02/17/esp8266-programacion-inalambrica/)
